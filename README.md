@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @demo308
+- 👋 Hi, I’m @demo308 aka Jordan Lee
 - 👀 I’m interested in Youtube
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Nanoblox formerly HD admin
