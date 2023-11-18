@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @demo308 aka Jordan Lee
-- 👀 I’m interested in Youtube
+- 👀 I’m interested in Youtube and Music
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Nanoblox formerly HD admin
-- 📫 How to reach me linktree.com/jordanleejlee
 - i fork stuff and star them too
 
 
